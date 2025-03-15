@@ -35,7 +35,7 @@
     "react": "18.2.0",
     "react-dom": "^18.2.0",
     "react-google-maps": "^9.4.5",
-    "react-native": "0.72.10",
+    "react-native": "0.73.0",
     "react-native-gesture-handler": "~2.12.0",
     "react-native-keyboard-aware-scrollview": "2.1.0",
     "react-native-maps": "1.7.1",
